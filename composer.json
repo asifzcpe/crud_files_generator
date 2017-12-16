@@ -1,0 +1,11 @@
+{
+    "name": "Asif/Cfg",
+    "description": "to generate files",
+    "authors": [
+        {
+            "name": "asifzcpe",
+            "email": "rahmanasif05004@gmail.com"
+        }
+    ],
+    "require": {}
+}
