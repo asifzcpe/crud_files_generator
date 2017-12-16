@@ -12,6 +12,11 @@
    	"minimum-stability": "dev",
     "license":"MIT",
     "require": {
-    	"asif/cfg":"dev-master"
+    	
+    },
+    "autoload": {
+        "psr-4": {
+            "Asif\\Cfg\\": "vendor/asif/cfg/src"
+        }
     }
 }
