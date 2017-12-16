@@ -8,6 +8,7 @@
         }
     ],
    	"prefer-stable": true,
+   	"minimum-stability": "dev",
     "license":"MIT",
     "require": {
     	"asif/cfg":"dev-master"
