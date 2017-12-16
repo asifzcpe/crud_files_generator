@@ -9,5 +9,7 @@
     ],
    	"prefer-stable": true,
     "license":"MIT",
-    "require": {}
+    "require": {
+    	"asif/cfg":"dev-master"
+    }
 }
