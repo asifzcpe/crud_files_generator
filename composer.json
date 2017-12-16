@@ -1,5 +1,6 @@
 {
     "name": "asif/cfg",
+    "version":"1.0.0",
     "description": "to generate files for any crud",
     "authors": [
         {
