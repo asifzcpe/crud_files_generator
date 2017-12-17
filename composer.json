@@ -9,11 +9,9 @@
         }
     ],
    	"prefer-stable": true,
-   	"minimum-stability": "dev",
+   	"minimum-stability": "stable",
     "license":"MIT",
-    "require": {
-    	"asif/cfg":"1.0.0"
-    },
+    
     "autoload": {
         "psr-4": {
             "Asif\\Cfg\\": "vendor/asif/cfg/src"
